@@ -7,6 +7,7 @@ For building and running the application you need:
 
 - [Python 3.8](https://www.python.org/downloads/)
 - IDE of your choice to run the application
+- praw: run "pip install praw" in the terminal
 
 ## Running the application
 
